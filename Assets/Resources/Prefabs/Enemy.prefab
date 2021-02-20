@@ -230,7 +230,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc54ca87ef3030d49b3c356d1edb65be, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  navMeshAgent: {fileID: 0}
+  navMeshAgent: {fileID: 3248589203619905375}
   player: {fileID: 0}
 --- !u!1001 &5663077967933624022
 PrefabInstance:
